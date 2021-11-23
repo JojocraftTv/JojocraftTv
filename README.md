@@ -1,7 +1,9 @@
-- I'm a Developer since 2015 (or 2014 I don't remember). 
+- I'm a Developer since 2013
 - I’m interested in Java and C# Development
 - I'm also a Furry :D
 - I'm German but I also speak English
-- I also have a Webpage but I'm to lazy and to stupid to program it. xD
-- occasionally I stream on Twitch (in German most of the time): http://twitch.jojocrafttv.de/ or https://www.twitch.tv/jojocrafttv_thereal
-- I also do Youtube: http://yt.jojocrafttv.de/ or https://www.youtube.com/channel/UCJrqWoHzC1Dhe_2Exhi_zDA
+
+Donate via crypto:
+BTC: bc1qcvmwsjkpmsllguefryv5wxjca7xn5ap8ur5s40
+ETH: 0x640A0E5b64977c48848c230354d0E6B98428c248
+XMR: 42dKCPbzSUrcCwFHWAxyHCGsBeCkGQDWCQn5XD5vn9HE7dLVWijsRju1g7NdcpPH5UDazJ75dLn8sVrZVAxFkLPZ8hcrm8A
