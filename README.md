@@ -31,7 +31,7 @@
 
 - XMR: 42dKCPbzSUrcCwFHWAxyHCGsBeCkGQDWCQn5XD5vn9HE7dLVWijsRju1g7NdcpPH5UDazJ75dLn8sVrZVAxFkLPZ8hcrm8A
 
-##Stats
+## Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JojocraftTv&count_private=true&theme=radical)
 
