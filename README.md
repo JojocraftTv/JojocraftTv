@@ -1,9 +1,29 @@
-- I'm a Developer since 2013
-- I’m interested in Java and C# Development
-- I'm also a Furry :D
-- I'm German but I also speak English
+## Programming Languages
+- Java
+- C#
+- PHP
+- Nodejs
+- SQL
+- Javascript
+- Python
+- HTML
+- CSS
 
-Donate via crypto:
+
+## What I do
+- Game Servers
+- Minecraft/Spigot Plugins and Custom Servers
+- Linux and Windows Software
+- Backend Server Software and Magemanet
+- Team Magemanet
+
+## Some Stuff about me
+- I'm a Developer since 2013
+- I’m mostly interested in Backend-Development
+- I'm German but I also speak English
+- My Hobbies are: Programming, Furry, Gaming
+
+## Donate via crypto:
 
 - BTC: bc1qcvmwsjkpmsllguefryv5wxjca7xn5ap8ur5s40
 
