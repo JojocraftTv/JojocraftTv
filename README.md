@@ -1,5 +1,3 @@
-[![email button](email_icon.png)](mailto:support@jojocrafttv.de)
-
 ## Programming Languages
 - Java
 - C#
@@ -36,4 +34,6 @@
 ## Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JojocraftTv&count_private=true&theme=radical)
+
+[![email button](email_icon.png)](mailto:support@jojocrafttv.de)
 
