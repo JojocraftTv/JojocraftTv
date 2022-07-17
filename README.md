@@ -1,5 +1,3 @@
-<a href="email:support@jojocrafttv.de">Send an Email</a>
-
 ## Programming Languages
 - Java
 - C#
