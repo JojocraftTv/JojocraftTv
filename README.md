@@ -35,5 +35,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JojocraftTv&count_private=true&theme=radical)
 
+## Contact Me
+
 [![email button](email_icon.png)](mailto:support@jojocrafttv.de)
 
