@@ -35,6 +35,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JojocraftTv&count_private=true&theme=radical)
 
+<img width=410 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheGiga&langs_count=8&theme=radical&hide=css&layout=compact" />
+
 ## Contact Me
 
 [![email button](email_icon.png)](mailto:support@jojocrafttv.de)
