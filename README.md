@@ -72,7 +72,7 @@ You can support my work by donating via cryptocurrency:
 Feel free to reach out to me through any of the following channels:
 
 - **E-Mail**: [support@jojocrafttv.de](mailto:support@jojocrafttv.de)
-- **Discord**: [Jojocraft_Tv#1234](https://discord.com/users/417053033428418563)
+- **Discord**: [@Jojocrafttv](https://discord.com/users/417053033428418563)
 - **Twitter**: [@Jojocraft_Tv](https://twitter.com/Jojocraft_Tv)
 
 I'm looking forward to collaborating with you!
