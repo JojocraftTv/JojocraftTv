@@ -45,19 +45,19 @@ You can support my work by donating via cryptocurrency:
 <details>
 <summary>BTC</summary>
   
-> bc1qcvmwsjkpmsllguefryv5wxjca7xn5ap8ur5s40
+> bc1qwwnh24q4r36r5q2ad6wvr3q2s4gfn72c82ekdf
 
 </details>
 <details>
 <summary>ETH</summary>
   
-> 0x640A0E5b64977c48848c230354d0E6B98428c248
+> 0x95b63d005da369fA0919EBa8CD1e2497B7C93CA2
 
 </details>
 <details>
 <summary>XMR</summary>
   
-> 42dKCPbzSUrcCwFHWAxyHCGsBeCkGQDWCQn5XD5vn9HE7dLVWijsRju1g7NdcpPH5UDazJ75dLn8sVrZVAxFkLPZ8hcrm8A
+> 496q2jhA2YyPavbZTx6ophXJQaWLPhoawF3kBP3vFdnY3Ew5ZNLHfh651VmAC7q6ZUhg9uGYGz1QZJB1nz7iueQj6qNpWqy
 
 </details>
 
