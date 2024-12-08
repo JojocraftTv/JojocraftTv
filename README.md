@@ -8,7 +8,7 @@
 I'm a **hobbyist developer** specializing in backend application development. I work on servers, databases, and backend software, with experience in:  
 
 ### Tools & Technologies 🛠️ 
-- **Programming:** Java, SQL, Python  
+- **Programming:** Java, SQL, Python and C 
 - **Frameworks & Platforms:** Spring, Hibernate, Docker  
 - **Virtualization:** Proxmox, OPNsense  
 - **Frontend Basics:** HTML, CSS, JavaScript, Vue, and Figma for interface design  
